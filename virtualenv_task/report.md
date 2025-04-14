@@ -38,7 +38,8 @@ deactivate
 
 _Скріншоти виконання роботи з терміналу, файлів та GitHub:_
 
-![](https://raw.githubusercontent.com/Kaena0/virtual/main/virtualenv_task/screenshots/main-py.png.png)  
-![](https://raw.githubusercontent.com/Kaena0/virtual/main/virtualenv_task/screenshots/requirements.png.png)
+![](https://raw.githubusercontent.com/Kaena0/virtual/main/virtualenv_task/screenshots/main-py.png)  
+![](https://raw.githubusercontent.com/Kaena0/virtual/main/virtualenv_task/screenshots/requirements.png)
+
 
 
