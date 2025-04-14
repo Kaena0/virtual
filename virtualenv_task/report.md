@@ -34,3 +34,10 @@ response = requests.get('https://api.github.com')
 print("Status code:", response.status_code)
 pip freeze > requirements.txt
 deactivate
+## 📸 Вставлені рисунки (скріншоти)
+
+_Скріншоти виконання роботи з терміналу, файлів та GitHub:_
+
+![main.py](https://raw.githubusercontent.com/Kaena0/virtual/main/virtualenv_task/screenshots/main-py.png.png)  
+![requirements.txt](https://raw.githubusercontent.com/Kaena0/virtual/main/virtualenv_task/screenshots/requirements.png.png)
+
